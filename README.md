@@ -1,8 +1,11 @@
 ## Hi there 👋
 
 I'm **Harsh**, a **Software Engineer**👨‍💻 from **Pune**.
+
 I'm passionate about **Web Development** and always looking for new ways to learn and grow.
+
 In my free time, I enjoy playing music 🎸 and reading 📖.
+
 I'm always open to connecting with new people, so feel free to say hello!
 
 ### Skills
