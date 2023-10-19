@@ -21,5 +21,5 @@
 
 ### Contact me
 
-* 📧 [E-mail](harsh07may@gmail.com)
-* [](https://skillicons.dev/icons?i=linkedin) [LinkdIn](https://www.linkedin.com/in/harsh07may)
+*  [E-mail](harsh07may@gmail.com)
+*  [LinkdIn](https://www.linkedin.com/in/harsh07may)
