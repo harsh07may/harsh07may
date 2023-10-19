@@ -1,4 +1,6 @@
-## Hi there 👋
+![harsh07may](assets/)
+
+# Hi there 👋
 
 👨‍💻 I'm **Harsh**, a **Software Engineer** from **Pune**.
 
