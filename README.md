@@ -1,4 +1,4 @@
-![harsh07may](assets/)
+![harsh07may](assets/github-header-image.png)
 
 # Hi there 👋
 
