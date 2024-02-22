@@ -10,7 +10,7 @@
 
 ### Skills
 
-![My Skills](https://skillicons.dev/icons?i=nextjs,react,express,nodejs,mongo,git,cs,dotnet)
+![My Skills](https://skillicons.dev/icons?i=nextjs,react,express,nodejs,mongo,git,cs,dotnet,azure,githubactions)
 
 ### Projects
 
