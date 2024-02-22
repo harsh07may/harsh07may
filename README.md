@@ -1,5 +1,3 @@
-![harsh07may](assets/github-header-image.png)
-
 # Hi there 👋
 
 👨‍💻 I'm **Harsh**, a **Software Engineer** from **Pune**.
