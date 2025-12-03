@@ -1,4 +1,4 @@
-# Hi there 👋
+# Heya !
 
 👨‍💻 I'm **Harsh**, a **SDE** in **Pune**.
 
