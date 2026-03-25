@@ -1,8 +1,6 @@
-# Heya !
+# Hey !
 
-👨‍💻 I'm **Harsh**, a **SDE** in **Pune**.
-
-💻 I'm a primarily a **Web Developer** but that doesn't stop me from learning and growing!
+👨‍💻 I'm **Harsh**, a **SDE** mainly dealing with Web development.
 
 ✨ I'm always open to connecting with new people, so feel free to say hello!
 
