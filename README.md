@@ -1,6 +1,6 @@
 # Hey !
 
-👨‍💻 Harsh , SDE, bleh.  
+I'm Harsh , SDE or something. 😼  
 
 ### Skills
 
