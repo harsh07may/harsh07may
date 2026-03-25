@@ -1,8 +1,6 @@
 # Hey !
 
-👨‍💻 I'm **Harsh**, a **SDE** mainly dealing with Web development.
-
-✨ I'm always open to connecting with new people, so feel free to say hello!
+👨‍💻 Harsh , SDE, bleh.  
 
 ### Skills
 
